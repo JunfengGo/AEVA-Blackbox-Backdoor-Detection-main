@@ -92,4 +92,16 @@ Global Adversarial Peak(GAP):[0.36433247 0.16292 0.18040664 0.20698954 0.2003722
 Anomaly Index:[10.46289861 -0.8345591   0.14628692  1.63735197  1.26618296 -0.80961594
  -0.01299003  0.01299003 -0.53936558 -0.18521095]
 ```
+#Citation
+If you find our implementaion is helpful, please cite:
+```bash
+@inproceedings{
+guo2022aeva,
+title={{AEVA}: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis},
+author={Junfeng Guo and Ang Li and Cong Liu},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=OM_lYiHXiCL}
+}
+```
 
