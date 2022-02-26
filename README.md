@@ -1,6 +1,6 @@
 # Aeva-Blackbox-Backdoor-Detection (**ICLR 2022**) 
 The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis (**ICLR 2022**)
-![AEVA](https://myoctocat.com/assets/images/base-octocat.svg)
+![AEVA](https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main/blob/main/owtf.pdf)
 
 # BEFORE YOU RUN THIS CODE
 
