@@ -92,7 +92,7 @@ Global Adversarial Peak(GAP):[0.36433247 0.16292 0.18040664 0.20698954 0.2003722
 Anomaly Index:[10.46289861 -0.8345591   0.14628692  1.63735197  1.26618296 -0.80961594
  -0.01299003  0.01299003 -0.53936558 -0.18521095]
 ```
-#Citation
+# Citation
 If you find our implementaion is helpful, please cite:
 ```bash
 @inproceedings{
