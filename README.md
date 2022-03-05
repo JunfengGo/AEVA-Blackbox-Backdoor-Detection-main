@@ -6,7 +6,7 @@ The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial E
 
 We appreciate your interest in AEVA: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis and use our code. 
 
-
+![AEVA Framework](framework.png)
 
 
 The detailed instructions are shown below.
