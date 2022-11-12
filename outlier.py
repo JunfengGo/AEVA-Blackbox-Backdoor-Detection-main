@@ -32,9 +32,9 @@ def get_s(num_labels):
                 #v=np.max(sort(a))
                 v=np.max(sort(a))
                 coll[i][index]=v
-
-
- 
+                
+                s[i]+=v
+    print(s)
     return s
 
 def analomy(array):
